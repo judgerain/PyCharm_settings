@@ -1,0 +1,170 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.10 (C:\Python27\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="C:\Python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Python27/DLLs" />
+            <root type="simple" url="file://C:/Python27/Lib" />
+            <root type="simple" url="file://C:/Python27/Lib/lib-tk" />
+            <root type="simple" url="file://C:/Python27" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages/wx-3.0-msw" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/python_stubs/-762174762" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 (C:\Python34\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.4" />
+      <homePath value="C:\Python34\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Python34/DLLs" />
+            <root type="simple" url="file://C:/Python34/Lib" />
+            <root type="simple" url="file://C:/Python34" />
+            <root type="simple" url="file://C:/Python34/Lib/site-packages" />
+            <root type="simple" url="file://C:/Python34/Lib/site-packages/win32" />
+            <root type="simple" url="file://C:/Python34/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://C:/Python34/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-1442825926" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.2.5 (C:\Python32\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.2.5" />
+      <homePath value="C:\Python32\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Python32/Lib/site-packages/setuptools-18.1-py3.2.egg!/" />
+            <root type="simple" url="file://C:/Python32/Lib/site-packages/pip-7.1.0-py3.2.egg" />
+            <root type="simple" url="file://C:/Python32/DLLs" />
+            <root type="simple" url="file://C:/Python32/Lib" />
+            <root type="simple" url="file://C:/Python32" />
+            <root type="simple" url="file://C:/Python32/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/python_stubs/-1700991364" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.3.5 (C:\Python33\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.3.5" />
+      <homePath value="C:\Python33\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Python33/Lib/site-packages/setuptools-18.1-py3.3.egg!/" />
+            <root type="simple" url="file://C:/Python33/Lib/site-packages/pip-7.1.0-py3.3.egg" />
+            <root type="simple" url="file://C:/Python33/DLLs" />
+            <root type="simple" url="file://C:/Python33/Lib" />
+            <root type="simple" url="file://C:/Python33" />
+            <root type="simple" url="file://C:/Python33/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/python_stubs/-1571908645" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.1.4 (C:\Python31\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.1.4" />
+      <homePath value="C:\Python31\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Python31/Lib/site-packages/setuptools-18.1-py3.1.egg!/" />
+            <root type="simple" url="file://C:/Python31/Lib/site-packages/pip-7.1.0-py3.1.egg" />
+            <root type="simple" url="file://C:/Python31/DLLs" />
+            <root type="simple" url="file://C:/Python31/Lib" />
+            <root type="simple" url="file://C:/Python31" />
+            <root type="simple" url="file://C:/Python31/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/python_stubs/-1830074083" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 (C:\Users\judge\AppData\Local\Programs\Python\Python35-32\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="C:\Users\judge\AppData\Local\Programs\Python\Python35-32\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/python_stubs/1423046707" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.4 virtualenv at C:\Users\judge\django" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.4" />
+      <homePath value="C:\Users\judge\django\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Python34/DLLs" />
+            <root type="simple" url="file://C:/Python34/Lib" />
+            <root type="simple" url="file://C:/Python34" />
+            <root type="simple" url="file://$USER_HOME$/django" />
+            <root type="simple" url="file://$USER_HOME$/django/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-1782395932" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

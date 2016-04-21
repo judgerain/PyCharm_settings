@@ -1,0 +1,11 @@
+<application>
+  <component name="PySdkService">
+    <option name="REMOVED_SDKS">
+      <set>
+        <option value="C:\Users\judge\Test\Scripts\python.exe" />
+        <option value="C:\Users\judge\django_test.com\Scripts\python.exe" />
+        <option value="C:\Users\judge\djangotest.com\Scripts\python.exe" />
+      </set>
+    </option>
+  </component>
+</application>
