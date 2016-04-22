@@ -1,7 +1,12 @@
 <code_scheme name="Judge">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <CssCodeStyleSettings>
+    <option name="VALUE_ALIGNMENT" value="1" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
+  </CssCodeStyleSettings>
   <Python>
     <option name="DICT_ALIGNMENT" value="2" />
+    <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
   </Python>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
