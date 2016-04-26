@@ -20,8 +20,8 @@
       <option name="JSX_HTML" value="true" />
       <option name="JS_STATEMENT" value="true" />
       <option name="TypeScript" value="true" />
-      <option name="HAML" value="true" />
       <option name="CoffeeScript" value="true" />
+      <option name="HAML" value="true" />
       <option name="OTHER" value="true" />
     </context>
   </template>
