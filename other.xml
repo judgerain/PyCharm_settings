@@ -69,6 +69,11 @@
     <option name="KEEP_ITN_PASSWORD" value="false" />
     <option name="EMAIL" value="" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files (x86)/nodejs/node.exe">
+      <version-cache version="0.12.2" last-modified="1427834226000" />
+    </local-interpreter>
+  </component>
   <component name="PyCodeInsightSettings">
     <option name="SHOW_IMPORT_POPUP" value="true" />
   </component>
@@ -84,6 +89,7 @@
         <entry key="C:\Users\judge\AppData\Local\Programs\Python\Python35-32\python.exe" value="false" />
         <entry key="C:\Users\judge\django\Scripts\python.exe" value="false" />
         <entry key="C:\Users\judge\django_test.com\Scripts\python.exe" value="false" />
+        <entry key="C:\pypy-5.1.1-win32\pypy.exe" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
@@ -97,6 +103,7 @@
         <entry key="C:\Users\judge\AppData\Local\Programs\Python\Python35-32\python.exe" value="false" />
         <entry key="C:\Users\judge\django\Scripts\python.exe" value="false" />
         <entry key="C:\Users\judge\django_test.com\Scripts\python.exe" value="false" />
+        <entry key="C:\pypy-5.1.1-win32\pypy.exe" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
@@ -110,6 +117,7 @@
         <entry key="C:\Users\judge\AppData\Local\Programs\Python\Python35-32\python.exe" value="false" />
         <entry key="C:\Users\judge\django\Scripts\python.exe" value="false" />
         <entry key="C:\Users\judge\django_test.com\Scripts\python.exe" value="false" />
+        <entry key="C:\pypy-5.1.1-win32\pypy.exe" value="false" />
       </map>
     </option>
   </component>
