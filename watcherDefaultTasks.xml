@@ -13,7 +13,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="true" />
-      <option name="program" value="C:/Program Files (x86)/nodejs/compiler.jar" />
+      <option name="program" value="C:/Closure Compiler/compiler.jar" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
