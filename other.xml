@@ -6,10 +6,13 @@
           <State>
             <id />
           </State>
+          <State>
+            <id>Python</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Buildout</id>
+            <id>PyPep8NamingInspection</id>
           </State>
         </selected-state>
       </profile-state>
@@ -71,12 +74,13 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="C:/Program Files (x86)/nodejs/node.exe">
-      <version-cache version="0.12.2" last-modified="1427834226000" />
+      <version-cache version="6.2.1" last-modified="1464893754000" />
       <npm-package value="C:/Program Files (x86)/nodejs/node_modules/npm" />
     </local-interpreter>
   </component>
   <component name="PyCodeInsightSettings">
     <option name="SHOW_IMPORT_POPUP" value="true" />
+    <option name="INSERT_TYPE_DOCSTUB" value="true" />
   </component>
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
