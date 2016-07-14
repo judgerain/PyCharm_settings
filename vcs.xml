@@ -54,6 +54,10 @@
           <option name="url" value="https://github.com/axelpale/minimal-django-file-upload-example.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://judgerain@bitbucket.org/judgerain/kbc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\judge\PycharmProjects" />
