@@ -2149,7 +2149,7 @@
         <entry key="ExamplePackage" value="" />
         <entry key="ExcelLookup" value="" />
         <entry key="Exceptable" value="" />
-        <entry key="ExifRead" value="" />
+        <entry key="ExifRead" value="2.1.2" />
         <entry key="EximSesTransport" value="" />
         <entry key="Exode" value="" />
         <entry key="ExpectoCastellum" value="" />
@@ -27589,7 +27589,7 @@
         <entry key="django-phonological-statistics" value="" />
         <entry key="django-photo-albums" value="" />
         <entry key="django-photobooth" value="" />
-        <entry key="django-photologue" value="" />
+        <entry key="django-photologue" value="3.5.1" />
         <entry key="django-photologue-addons" value="" />
         <entry key="django-photologue-praekelt" value="" />
         <entry key="django-photoprocessor" value="" />
@@ -28899,7 +28899,7 @@
         <entry key="django-sortable-fc" value="" />
         <entry key="django-sortable-listview" value="" />
         <entry key="django-sorted-autocomplete-m2m" value="" />
-        <entry key="django-sortedm2m" value="" />
+        <entry key="django-sortedm2m" value="1.3.2" />
         <entry key="django-sortedm2m-filter-horizontal-widget" value="" />
         <entry key="django-sortedmanytomany" value="" />
         <entry key="django-sortedone2many" value="" />
