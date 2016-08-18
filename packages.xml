@@ -545,7 +545,7 @@
         <entry key="BYONDTools" value="" />
         <entry key="B_pp" value="" />
         <entry key="BaGua" value="" />
-        <entry key="Babel" value="" />
+        <entry key="Babel" value="2.3.4" />
         <entry key="Babel-lex" value="" />
         <entry key="Babel3k" value="" />
         <entry key="BabelDjango" value="" />
@@ -1737,7 +1737,7 @@
         <entry key="Djamo" value="" />
         <entry key="DjanJinja" value="" />
         <entry key="Djang" value="" />
-        <entry key="Django" value="" />
+        <entry key="Django" value="1.10" />
         <entry key="Django-Accounts" value="" />
         <entry key="Django-Actuary" value="" />
         <entry key="Django-ArrayAccum" value="" />
@@ -2151,7 +2151,7 @@
         <entry key="ExamplePackage" value="" />
         <entry key="ExcelLookup" value="" />
         <entry key="Exceptable" value="" />
-        <entry key="ExifRead" value="" />
+        <entry key="ExifRead" value="2.1.2" />
         <entry key="EximSesTransport" value="" />
         <entry key="Exode" value="" />
         <entry key="ExpectoCastellum" value="" />
@@ -5623,7 +5623,7 @@
         <entry key="Pikabu_telegram_bot" value="" />
         <entry key="Pikzie" value="" />
         <entry key="Pil-Lite" value="" />
-        <entry key="Pillow" value="" />
+        <entry key="Pillow" value="3.3.0" />
         <entry key="Pillow-PIL" value="" />
         <entry key="Pillow-SIMD" value="" />
         <entry key="Pilot-Lib" value="" />
@@ -22554,7 +22554,7 @@
         <entry key="deform_widget_jquery_option_tree" value="" />
         <entry key="defrost" value="" />
         <entry key="defusedexpat" value="" />
-        <entry key="defusedxml" value="" />
+        <entry key="defusedxml" value="0.4.1" />
         <entry key="degenerate" value="" />
         <entry key="degenerate-dna" value="" />
         <entry key="degreedays" value="" />
@@ -23665,7 +23665,7 @@
         <entry key="django-aliyun-oss2-storage" value="" />
         <entry key="django-aliyun-storage" value="" />
         <entry key="django-all-access" value="" />
-        <entry key="django-allauth" value="" />
+        <entry key="django-allauth" value="1" />
         <entry key="django-allauth-2fa" value="" />
         <entry key="django-allauth-adfs" value="" />
         <entry key="django-allauth-bootstrap" value="" />
@@ -24388,7 +24388,7 @@
         <entry key="django-cked" value="" />
         <entry key="django-cked-fc" value="" />
         <entry key="django-ckedit" value="" />
-        <entry key="django-ckeditor" value="" />
+        <entry key="django-ckeditor" value="5.0.3" />
         <entry key="django-ckeditor-enhanced" value="" />
         <entry key="django-ckeditor-fc" value="" />
         <entry key="django-ckeditor-filebrowser-filer" value="" />
@@ -24713,7 +24713,7 @@
         <entry key="django-crispy-admin" value="" />
         <entry key="django-crispy-bootstrap" value="" />
         <entry key="django-crispy-contact-form" value="" />
-        <entry key="django-crispy-forms" value="" />
+        <entry key="django-crispy-forms" value="1.6.0" />
         <entry key="django-crispy-forms-fancy-formsets" value="" />
         <entry key="django-crispy-forms-ng" value="" />
         <entry key="django-critic" value="" />
@@ -25638,7 +25638,7 @@
         <entry key="django-flickrsets" value="" />
         <entry key="django-flipbook" value="" />
         <entry key="django-floppy-gumby" value="" />
-        <entry key="django-floppyforms" value="" />
+        <entry key="django-floppyforms" value="1.7.0" />
         <entry key="django-floppymaterial" value="" />
         <entry key="django-floppymodelforms" value="" />
         <entry key="django-flot" value="" />
@@ -27669,13 +27669,13 @@
         <entry key="django-phased" value="" />
         <entry key="django-phaxio" value="" />
         <entry key="django-phitbit" value="" />
-        <entry key="django-phonenumber-field" value="" />
+        <entry key="django-phonenumber-field" value="1.1.0" />
         <entry key="django-phonenumber-filter" value="" />
         <entry key="django-phonenumbers" value="" />
         <entry key="django-phonological-statistics" value="" />
         <entry key="django-photo-albums" value="" />
         <entry key="django-photobooth" value="" />
-        <entry key="django-photologue" value="" />
+        <entry key="django-photologue" value="3.5.1" />
         <entry key="django-photologue-addons" value="" />
         <entry key="django-photologue-praekelt" value="" />
         <entry key="django-photoprocessor" value="" />
@@ -28990,7 +28990,7 @@
         <entry key="django-sortable-fc" value="" />
         <entry key="django-sortable-listview" value="" />
         <entry key="django-sorted-autocomplete-m2m" value="" />
-        <entry key="django-sortedm2m" value="" />
+        <entry key="django-sortedm2m" value="1.3.2" />
         <entry key="django-sortedm2m-filter-horizontal-widget" value="" />
         <entry key="django-sortedmanytomany" value="" />
         <entry key="django-sortedone2many" value="" />
@@ -32355,7 +32355,7 @@
         <entry key="easy-rest" value="" />
         <entry key="easy-scheduler" value="" />
         <entry key="easy-selenium" value="" />
-        <entry key="easy-thumbnails" value="" />
+        <entry key="easy-thumbnails" value="21" />
         <entry key="easy-web-app" value="" />
         <entry key="easyAI" value="" />
         <entry key="easyBay" value="" />
@@ -53693,7 +53693,7 @@
         <entry key="oauthclient" value="" />
         <entry key="oauthenticator" value="" />
         <entry key="oauther" value="" />
-        <entry key="oauthlib" value="" />
+        <entry key="oauthlib" value="1.1.2" />
         <entry key="oauthnesia" value="" />
         <entry key="oawt" value="" />
         <entry key="oaxmlapi" value="" />
@@ -56895,7 +56895,7 @@
         <entry key="phonedb" value="" />
         <entry key="phonehub" value="" />
         <entry key="phonenumbers" value="" />
-        <entry key="phonenumberslite" value="" />
+        <entry key="phonenumberslite" value="7.5.2" />
         <entry key="phonetic" value="" />
         <entry key="phonon" value="" />
         <entry key="phonopy" value="" />
@@ -57264,7 +57264,7 @@
         <entry key="pion" value="" />
         <entry key="pioneeravclient" value="" />
         <entry key="pior" value="" />
-        <entry key="pip" value="" />
+        <entry key="pip" value="8.1.2" />
         <entry key="pip-Win" value="" />
         <entry key="pip-accel" value="" />
         <entry key="pip-autoremove" value="" />
@@ -59411,7 +59411,7 @@
         <entry key="psycopg" value="" />
         <entry key="psycopg-ct" value="" />
         <entry key="psycopg-postgis" value="" />
-        <entry key="psycopg2" value="" />
+        <entry key="psycopg2" value="2.6.2" />
         <entry key="psycopg2-ct" value="" />
         <entry key="psycopg2-dateutils" value="" />
         <entry key="psycopg2-managed-connection" value="" />
@@ -66480,7 +66480,7 @@
         <entry key="python3-libdrizzle" value="" />
         <entry key="python3-memcached" value="" />
         <entry key="python3-mmhash" value="" />
-        <entry key="python3-openid" value="" />
+        <entry key="python3-openid" value="3.0.10" />
         <entry key="python3-openttd" value="" />
         <entry key="python3-pb2nano" value="" />
         <entry key="python3-pika" value="" />
@@ -66770,7 +66770,7 @@
         <entry key="pytype" value="" />
         <entry key="pytypo" value="" />
         <entry key="pytyrant" value="" />
-        <entry key="pytz" value="" />
+        <entry key="pytz" value="2016.6.1" />
         <entry key="pytz-memcache" value="" />
         <entry key="pytzpure" value="" />
         <entry key="pyuarm" value="" />
@@ -69173,7 +69173,7 @@
         <entry key="requestests" value="" />
         <entry key="requestions" value="" />
         <entry key="requeston" value="" />
-        <entry key="requests" value="" />
+        <entry key="requests" value="2.11.1" />
         <entry key="requests-aeaweb" value="" />
         <entry key="requests-aliyun" value="" />
         <entry key="requests-auth-mashery" value="" />
@@ -69212,7 +69212,7 @@
         <entry key="requests-negotiate-sspi" value="" />
         <entry key="requests-oauth" value="" />
         <entry key="requests-oauth2" value="" />
-        <entry key="requests-oauthlib" value="" />
+        <entry key="requests-oauthlib" value="0.6.2" />
         <entry key="requests-raven" value="" />
         <entry key="requests-respectful" value="" />
         <entry key="requests-robotstxt" value="" />
@@ -72238,7 +72238,7 @@
         <entry key="setuppycheck" value="" />
         <entry key="setuptize_me" value="" />
         <entry key="setuptool" value="" />
-        <entry key="setuptools" value="" />
+        <entry key="setuptools" value="25.2.0" />
         <entry key="setuptools-bower" value="" />
         <entry key="setuptools-ci" value="" />
         <entry key="setuptools-clonedigger" value="" />
