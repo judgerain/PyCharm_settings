@@ -30951,7 +30951,7 @@
         <entry key="djangorecipe" value="" />
         <entry key="djangorecipebook" value="" />
         <entry key="djangorest_proxy" value="" />
-        <entry key="djangorestframework" value="" />
+        <entry key="djangorestframework" value="3.4.6" />
         <entry key="djangorestframework-apidoc" value="" />
         <entry key="djangorestframework-bulk" value="" />
         <entry key="djangorestframework-camel-case" value="" />
@@ -84143,7 +84143,7 @@
         <entry key="whatthepatch" value="" />
         <entry key="whatthewhat" value="" />
         <entry key="whatwhen" value="" />
-        <entry key="wheel" value="" />
+        <entry key="wheel" value="0.29.0" />
         <entry key="wheel2conda" value="" />
         <entry key="wheelbarrow" value="" />
         <entry key="wheelbuilder" value="" />
@@ -87193,7 +87193,7 @@
         <entry key="zzzfs" value="" />
       </map>
     </option>
-    <option name="virtualEnvBasePath" value="C:\Users\judge" />
+    <option name="virtualEnvBasePath" value="C:\Users\Judge" />
     <option name="LAST_TIME_CHECKED" value="1472063758656" />
   </component>
 </application>
