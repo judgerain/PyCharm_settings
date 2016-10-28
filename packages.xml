@@ -4696,7 +4696,7 @@
         <entry key="MarkDo" value="" />
         <entry key="MarkWiki" value="" />
         <entry key="Markdoc" value="" />
-        <entry key="Markdown" value="" />
+        <entry key="Markdown" value="2.6.7" />
         <entry key="Markdown-Bugzilla-Extension" value="" />
         <entry key="Markdown-Editor" value="" />
         <entry key="Markdown-No-Lazy-BlockQuote-Extension" value="" />
@@ -9039,9 +9039,9 @@
         <entry key="Sutekh" value="" />
         <entry key="Sveetchies" value="" />
         <entry key="SvnReporter" value="" />
-        <entry key="SwampDragon" value="" />
+        <entry key="SwampDragon" value="0.4.2.2" />
         <entry key="SwampDragon-auth" value="" />
-        <entry key="SwampDragon-fileupload" value="" />
+        <entry key="SwampDragon-fileupload" value="0.1.2" />
         <entry key="SwampDragon-live" value="" />
         <entry key="SwarmPackagePy" value="" />
         <entry key="SwearJar" value="" />
@@ -11134,7 +11134,7 @@
         <entry key="aiorchestra-asyncssh-plugin" value="" />
         <entry key="aiorchestra-openstack-plugin" value="" />
         <entry key="aioreactive" value="" />
-        <entry key="aioredis" value="" />
+        <entry key="aioredis" value="0.2.9" />
         <entry key="aioredux" value="" />
         <entry key="aiorequests" value="" />
         <entry key="aioresponses" value="" />
@@ -26314,7 +26314,7 @@
         <entry key="django-debug-panel" value="" />
         <entry key="django-debug-queries" value="" />
         <entry key="django-debug-template" value="" />
-        <entry key="django-debug-toolbar" value="" />
+        <entry key="django-debug-toolbar" value="1.6" />
         <entry key="django-debug-toolbar-autoreload" value="" />
         <entry key="django-debug-toolbar-django-info" value="" />
         <entry key="django-debug-toolbar-django13" value="" />
@@ -28497,7 +28497,7 @@
         <entry key="django-model-settings" value="" />
         <entry key="django-model-template" value="" />
         <entry key="django-model-urls" value="" />
-        <entry key="django-model-utils" value="" />
+        <entry key="django-model-utils" value="2.6" />
         <entry key="django-model-validator" value="" />
         <entry key="django-model-validators" value="" />
         <entry key="django-model-values" value="" />
@@ -29632,7 +29632,7 @@
         <entry key="django-redirects-file" value="" />
         <entry key="django-redirects-hvad" value="" />
         <entry key="django-redirecturls" value="" />
-        <entry key="django-redis" value="" />
+        <entry key="django-redis" value="4.5.0" />
         <entry key="django-redis-admin" value="" />
         <entry key="django-redis-cache" value="" />
         <entry key="django-redis-cluster" value="" />
@@ -29643,7 +29643,7 @@
         <entry key="django-redis-secure" value="" />
         <entry key="django-redis-sentinel" value="" />
         <entry key="django-redis-sentinel-redux" value="" />
-        <entry key="django-redis-sessions" value="" />
+        <entry key="django-redis-sessions" value="0.5.6" />
         <entry key="django-redis-sessions-fork" value="" />
         <entry key="django-redis-status" value="" />
         <entry key="django-redis-views" value="" />
@@ -36149,7 +36149,7 @@
         <entry key="failureaction" value="" />
         <entry key="fairy-slipper" value="" />
         <entry key="fake" value="" />
-        <entry key="fake-factory" value="" />
+        <entry key="fake-factory" value="0.7.2" />
         <entry key="fake-go-contacts" value="" />
         <entry key="fake-open" value="" />
         <entry key="fake-switches" value="" />
@@ -42438,7 +42438,7 @@
         <entry key="hipyschool" value="" />
         <entry key="hipython" value="" />
         <entry key="hirakan" value="" />
-        <entry key="hiredis" value="" />
+        <entry key="hiredis" value="0.2.0" />
         <entry key="hires" value="" />
         <entry key="hiringpond" value="" />
         <entry key="hirlite" value="" />
@@ -53661,7 +53661,7 @@
         <entry key="msgpack-numpy" value="" />
         <entry key="msgpack-pure" value="" />
         <entry key="msgpack-pypy" value="" />
-        <entry key="msgpack-python" value="" />
+        <entry key="msgpack-python" value="0.4.8" />
         <entry key="msgpack-rpc-python" value="" />
         <entry key="msgpack-tool" value="" />
         <entry key="msgpacku" value="" />
@@ -57985,7 +57985,7 @@
         <entry key="openproximity-external-media" value="" />
         <entry key="openproximity-plugin-remotecontrol" value="" />
         <entry key="openproximity-plugin-test" value="" />
-        <entry key="openpyxl" value="" />
+        <entry key="openpyxl" value="2.4.0-b1" />
         <entry key="openquake.hazardlib" value="" />
         <entry key="openrange" value="" />
         <entry key="openre" value="" />
@@ -69258,7 +69258,7 @@
         <entry key="python-datemath" value="" />
         <entry key="python-datetime-tz" value="" />
         <entry key="python-datetime2" value="" />
-        <entry key="python-dateutil" value="" />
+        <entry key="python-dateutil" value="2.5.3" />
         <entry key="python-db" value="" />
         <entry key="python-dbusmock" value="" />
         <entry key="python-dbusx" value="" />
@@ -78511,7 +78511,7 @@
         <entry key="sockfilter" value="" />
         <entry key="sockjs" value="" />
         <entry key="sockjs-cyclone" value="" />
-        <entry key="sockjs-tornado" value="" />
+        <entry key="sockjs-tornado" value="1.0.3" />
         <entry key="sockjsChat" value="" />
         <entry key="sockjsproxy" value="" />
         <entry key="sockjsroom" value="" />
@@ -79676,7 +79676,7 @@
         <entry key="sqlnosql" value="" />
         <entry key="sqloose" value="" />
         <entry key="sqlparams" value="" />
-        <entry key="sqlparse" value="" />
+        <entry key="sqlparse" value="0.2.2" />
         <entry key="sqlpharmacy" value="" />
         <entry key="sqlplus_commando" value="" />
         <entry key="sqlpuzzle" value="" />
@@ -83813,7 +83813,7 @@
         <entry key="tormon" value="" />
         <entry key="torn" value="" />
         <entry key="tornadis" value="" />
-        <entry key="tornado" value="" />
+        <entry key="tornado" value="4.4.2" />
         <entry key="tornado-NCTU-OAuth" value="" />
         <entry key="tornado-alchemy-rest" value="" />
         <entry key="tornado-alf" value="" />
@@ -83850,7 +83850,7 @@
         <entry key="tornado-psycopg2" value="" />
         <entry key="tornado-pyojo" value="" />
         <entry key="tornado-razorpay" value="" />
-        <entry key="tornado-redis" value="" />
+        <entry key="tornado-redis" value="2.4.18" />
         <entry key="tornado-redis-sentinel" value="" />
         <entry key="tornado-rest-handler" value="" />
         <entry key="tornado-retry" value="" />
