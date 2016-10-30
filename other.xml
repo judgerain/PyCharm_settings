@@ -11,6 +11,7 @@
         <entry key="$USER_HOME$/virtual_envs/coloris-one/bin/python3" value="false" />
         <entry key="$USER_HOME$/virtual_envs/learn_flask/bin/python3" value="false" />
         <entry key="$USER_HOME$/virtual_envs/parsers/bin/python" value="false" />
+        <entry key="$USER_HOME$/virtual_envs/spider/bin/python2" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
@@ -21,6 +22,7 @@
         <entry key="$USER_HOME$/virtual_envs/coloris-one/bin/python3" value="false" />
         <entry key="$USER_HOME$/virtual_envs/learn_flask/bin/python3" value="false" />
         <entry key="$USER_HOME$/virtual_envs/parsers/bin/python" value="false" />
+        <entry key="$USER_HOME$/virtual_envs/spider/bin/python2" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
@@ -31,6 +33,7 @@
         <entry key="$USER_HOME$/virtual_envs/coloris-one/bin/python3" value="false" />
         <entry key="$USER_HOME$/virtual_envs/learn_flask/bin/python3" value="false" />
         <entry key="$USER_HOME$/virtual_envs/parsers/bin/python" value="false" />
+        <entry key="$USER_HOME$/virtual_envs/spider/bin/python2" value="false" />
       </map>
     </option>
   </component>
