@@ -3,6 +3,11 @@
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <attributes>
+    <option name="CONSOLE_USER_INPUT">
+      <value>
+        <option name="FOREGROUND" value="7f00" />
+      </value>
+    </option>
     <option name="CSS.FUNCTION">
       <value>
         <option name="FOREGROUND" value="e879d1" />
