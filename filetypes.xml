@@ -3,11 +3,12 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="xps" type="Native" />
-      <mapping pattern="people-pickle" type="PLAIN_TEXT" />
-      <mapping pattern="dump" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="dump" type="PLAIN_TEXT" />
+      <mapping pattern="people-pickle" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="tmx" type="PLAIN_TEXT" />
       <mapping pattern="sql" type="SQL" />
     </extensionMap>
   </component>
