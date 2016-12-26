@@ -24,7 +24,7 @@
         <entry key="argparse" value="1.3.0" />
         <entry key="arraymanagement" value="0.1" />
         <entry key="astroid" value="1.4.7" />
-        <entry key="astropy" value="1.2.1" />
+        <entry key="astropy" value="1.3" />
         <entry key="aterm" value="2.5" />
         <entry key="atlas" value="3.8.4" />
         <entry key="atom" value="0.3.10" />
@@ -506,7 +506,7 @@
         <entry key="pytest-cov" value="2.3.1" />
         <entry key="pytest-pep8" value="1.0.6" />
         <entry key="pytest-timeout" value="1.0.0" />
-        <entry key="python" value="3.5.2" />
+        <entry key="python" value="3.6.0" />
         <entry key="python-daemon" value="2.1.2" />
         <entry key="python-dateutil" value="2.6.0" />
         <entry key="python-gdbm" value="1.1" />
@@ -969,6 +969,7 @@
               <option value="0.4.4" />
               <option value="1.2" />
               <option value="1.0.2" />
+              <option value="1.3" />
             </list>
           </value>
         </entry>
@@ -6074,6 +6075,7 @@
               <option value="2.7.4" />
               <option value="2.7.12" />
               <option value="2.7.13" />
+              <option value="3.6.0" />
             </list>
           </value>
         </entry>
@@ -7805,6 +7807,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1482497161007" />
+    <option name="LAST_TIME_CHECKED" value="1482739442944" />
   </component>
 </application>
