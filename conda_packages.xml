@@ -195,7 +195,7 @@
         <entry key="geos" value="3.5.0" />
         <entry key="geotiff" value="1.4.1" />
         <entry key="get_terminal_size" value="1.0.0" />
-        <entry key="gevent" value="1.1.2" />
+        <entry key="gevent" value="1.2.0" />
         <entry key="gevent-websocket" value="0.9.5" />
         <entry key="gevent_zeromq" value="0.2.5" />
         <entry key="gflags" value="2.1.2" />
@@ -405,7 +405,7 @@
         <entry key="orange" value="2.7.8" />
         <entry key="orange3" value="3.3.6" />
         <entry key="ordereddict" value="1.1" />
-        <entry key="pandas" value="0.19.1" />
+        <entry key="pandas" value="0.19.2" />
         <entry key="pandas-datareader" value="0.2.1" />
         <entry key="pandasql" value="0.7.3" />
         <entry key="pango" value="1.40.3" />
@@ -417,7 +417,7 @@
         <entry key="paste" value="1.7.5.1" />
         <entry key="pastedeploy" value="1.5.2" />
         <entry key="patchelf" value="0.9" />
-        <entry key="path.py" value="8.2.1" />
+        <entry key="path.py" value="9.0.1" />
         <entry key="pathlib2" value="2.1.0" />
         <entry key="patsy" value="0.4.1" />
         <entry key="pbkdf2" value="1.3" />
@@ -2955,6 +2955,7 @@
               <option value="1.0" />
               <option value="1.0.2" />
               <option value="0.13.8" />
+              <option value="1.2.0" />
             </list>
           </value>
         </entry>
@@ -5051,6 +5052,7 @@
               <option value="0.15.1" />
               <option value="0.17.0" />
               <option value="0.8.1" />
+              <option value="0.19.2" />
             </list>
           </value>
         </entry>
@@ -5169,6 +5171,7 @@
               <option value="7.6.1" />
               <option value="8.2" />
               <option value="7.6" />
+              <option value="9.0.1" />
             </list>
           </value>
         </entry>
@@ -7807,6 +7810,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1482830644657" />
+    <option name="LAST_TIME_CHECKED" value="1482926759624" />
   </component>
 </application>
