@@ -4,10 +4,23 @@
     <option name="VALUE_ALIGNMENT" value="1" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
+  <JSCodeStyleSettings>
+    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
+    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+  </JSCodeStyleSettings>
+  <JSON>
+    <option name="PROPERTY_ALIGNMENT" value="1" />
+  </JSON>
   <Python>
-    <option name="DICT_ALIGNMENT" value="2" />
+    <option name="DICT_ALIGNMENT" value="1" />
     <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
+    <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
+    <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
   </Python>
+  <TypeScriptCodeStyleSettings>
+    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
+    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+  </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
