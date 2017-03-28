@@ -6,8 +6,9 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="dump" type="PLAIN_TEXT" />
       <mapping pattern="people-pickle" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="tmx" type="PLAIN_TEXT" />
       <mapping pattern="sql" type="SQL" />
     </extensionMap>
