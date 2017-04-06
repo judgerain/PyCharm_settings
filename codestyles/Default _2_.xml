@@ -1,8 +1,24 @@
 <code_scheme name="Default (2)">
+  <CssCodeStyleSettings>
+    <option name="VALUE_ALIGNMENT" value="2" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
+  </CssCodeStyleSettings>
   <JSCodeStyleSettings>
+    <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
     <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
+    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
+    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </JSCodeStyleSettings>
+  <Python>
+    <option name="DICT_ALIGNMENT" value="1" />
+    <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
+  </Python>
   <TypeScriptCodeStyleSettings>
     <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
   </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
