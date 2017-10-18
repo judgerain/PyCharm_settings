@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="jenkins_QS_DO" type="PLAIN_TEXT" />
-      <mapping pattern="jenkins_dev" type="PLAIN_TEXT" />
-      <mapping pattern="jenkins_QA" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="jenkins_dev" type="PLAIN_TEXT" />
+      <mapping pattern="jenkins_QS_DO" type="PLAIN_TEXT" />
+      <mapping pattern="jenkins_QA" type="PLAIN_TEXT" />
+      <mapping pattern="j" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
