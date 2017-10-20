@@ -1,0 +1,55 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/davi_backend/claim/models.py" timestamp="1507884223926">
+        <mark key="'" line="160" column="0" />
+        <mark key="[" line="59" column="5" />
+        <mark key="]" line="59" column="5" />
+        <mark key="." line="59" column="5" />
+        <mark key="^" line="59" column="5" />
+      </file>
+      <file name="/Django Console" timestamp="1507883536293">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="39" column="18" filename="$USER_HOME$/Projects/davi_backend/claim/models.py" />
+      <jump line="161" column="4" filename="$USER_HOME$/Projects/davi_backend/claim/models.py" />
+      <jump line="146" column="0" filename="$USER_HOME$/Projects/davi_backend/claim/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/davi_backend/claim/models.py" />
+      <jump line="160" column="0" filename="$USER_HOME$/Projects/davi_backend/claim/models.py" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGFtb3VudCA9IG1vZGVscy5EZWNpbWFsRmllbGQoCiAgICAgICAgbnVsbD1GYWxzZSwKICAgICAgICBibGFuaz1GYWxzZSwKICAgICAgICBtYXhfZGlnaXRzPTExLCAgIyB1cCB0byA5OSBtaWxsaW9uCiAgICAgICAgZGVjaW1hbF9wbGFjZXM9MiwKICAgICAgICBoZWxwX3RleHQ9IkNsYWltIG1vbmV5IGFtb3VudCIKICAgICkKICAgIHJvYmluLCBUUEEgPSByYW5nZSgxLCAzKQoKICAgIE1BU1RFUl9FTlRSWV9DSE9JQ0VTID0gewo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>a</text>
+      </register>
+      <register name="-" type="4">
+        <text>a</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
