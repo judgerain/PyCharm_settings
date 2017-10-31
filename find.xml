@@ -5,7 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="models.py" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -25,11 +25,16 @@
       <mask>*.pymod</mask>
       <mask>*.pymodle</mask>
       <mask>*.pymodles</mask>
-      <mask>*.py</mask>
-      <mask>.py</mask>
       <mask>mo.py</mask>
       <mask>model.py</mask>
       <mask>models.py</mask>
+      <mask>odels.py</mask>
+      <mask>dels.py</mask>
+      <mask>els.py</mask>
+      <mask>ls.py</mask>
+      <mask>s.py</mask>
+      <mask>.py</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
