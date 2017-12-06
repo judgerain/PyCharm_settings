@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Disable Redis" description="Disable Redis" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="sudo /etc/init.d/redis-server stop" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+</toolSet>
