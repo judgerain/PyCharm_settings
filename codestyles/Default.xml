@@ -1,4 +1,4 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="100" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <DBN-PSQL>
@@ -29,6 +29,9 @@
     <option name="SPACE_AFTER_NUMBER_SIGN" value="false" />
     <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
   </Python>
+  <codeStyleSettings language="JavaScript">
+    <option name="SPECIAL_ELSE_IF_TREATMENT" value="false" />
+  </codeStyleSettings>
   <codeStyleSettings language="Python">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
