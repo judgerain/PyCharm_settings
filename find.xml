@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="initial*" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,7 +14,6 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.py</mask>
       <mask>i</mask>
       <mask>in</mask>
       <mask>ini</mask>
@@ -24,6 +23,7 @@
       <mask>initial</mask>
       <mask>initial**</mask>
       <mask>initial*</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
