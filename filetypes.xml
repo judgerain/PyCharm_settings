@@ -3,13 +3,12 @@
     <extensionMap>
       <mapping pattern="Dokerfile" type="Dockerfile" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".env_tests" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_dev" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_QS_DO" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_QA" type="PLAIN_TEXT" />
+      <mapping pattern=".env_tests" type="PLAIN_TEXT" />
       <mapping pattern="planing" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
