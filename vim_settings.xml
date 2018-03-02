@@ -10,6 +10,12 @@
         <mark key="." line="59" column="5" />
         <mark key="^" line="59" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/davi_backend/project/test/test_middlewares.py" timestamp="1519988742946">
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="27" column="44" />
+        <mark key="^" line="27" column="44" />
+        <mark key="." line="27" column="44" />
+      </file>
       <file name="/Django Console" timestamp="1507883536293">
         <mark key="[" line="0" column="0" />
       </file>
@@ -26,10 +32,10 @@
         <text encoding="base64">ICAgIGFtb3VudCA9IG1vZGVscy5EZWNpbWFsRmllbGQoCiAgICAgICAgbnVsbD1GYWxzZSwKICAgICAgICBibGFuaz1GYWxzZSwKICAgICAgICBtYXhfZGlnaXRzPTExLCAgIyB1cCB0byA5OSBtaWxsaW9uCiAgICAgICAgZGVjaW1hbF9wbGFjZXM9MiwKICAgICAgICBoZWxwX3RleHQ9IkNsYWltIG1vbmV5IGFtb3VudCIKICAgICkKICAgIHJvYmluLCBUUEEgPSByYW5nZSgxLCAzKQoKICAgIE1BU1RFUl9FTlRSWV9DSE9JQ0VTID0gewo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
@@ -39,6 +45,8 @@
     <history>
       <history-search />
       <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -49,6 +57,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
