@@ -6,26 +6,5 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.py" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>i</mask>
-      <mask>in</mask>
-      <mask>ini</mask>
-      <mask>init</mask>
-      <mask>initi</mask>
-      <mask>initia</mask>
-      <mask>initial</mask>
-      <mask>initial**</mask>
-      <mask>initial*</mask>
-      <mask>*.py</mask>
-    </recentFileMasks>
   </component>
 </application>
