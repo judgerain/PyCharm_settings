@@ -25,8 +25,16 @@
     <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
   <action id="NextEditorTab" />
+  <action id="NextParameter">
+    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="shift alt period" />
+  </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="PrevParameter">
+    <keyboard-shortcut first-keystroke="shift tab" />
+    <keyboard-shortcut first-keystroke="shift alt comma" />
   </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift alt left" />
