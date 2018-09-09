@@ -7,6 +7,7 @@
       <mapping pattern=".env_tests" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_dev" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_QA" type="PLAIN_TEXT" />
       <mapping pattern="curl_" type="PLAIN_TEXT" />
