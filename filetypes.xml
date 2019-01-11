@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dokerfile" type="Dockerfile" />
-      <mapping pattern="get doctors data" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="Pipfile" type="PLAIN_TEXT" />
       <mapping pattern="sane-pygtk" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_QS_DO" type="PLAIN_TEXT" />
@@ -12,14 +12,13 @@
       <mapping pattern="create_dump_for_inna" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_dev" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="get doctors data" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_QA" type="PLAIN_TEXT" />
       <mapping pattern="curl_" type="PLAIN_TEXT" />
       <mapping pattern="planing" type="PLAIN_TEXT" />
       <mapping pattern="test_file" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
