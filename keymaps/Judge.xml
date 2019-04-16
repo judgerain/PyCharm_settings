@@ -62,6 +62,7 @@
     <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
   <action id="PreviousEditorTab" />
+  <action id="ReformatCode" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift alt minus" />
   </action>
