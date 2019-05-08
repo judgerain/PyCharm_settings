@@ -26,6 +26,7 @@
       <mapping pattern="test_file" type="PLAIN_TEXT" />
       <mapping pattern=".env_med" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="gpx" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
