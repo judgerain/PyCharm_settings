@@ -19,6 +19,12 @@
       <file name="/Django Console" timestamp="1507883536293">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/davi_medical_provider/provider/models.py" timestamp="1557908773988">
+        <mark key="[" line="55" column="42" />
+        <mark key="]" line="55" column="41" />
+        <mark key="^" line="55" column="41" />
+        <mark key="." line="55" column="41" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="39" column="18" filename="$USER_HOME$/Projects/davi_backend/claim/models.py" />
@@ -29,13 +35,16 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFtb3VudCA9IG1vZGVscy5EZWNpbWFsRmllbGQoCiAgICAgICAgbnVsbD1GYWxzZSwKICAgICAgICBibGFuaz1GYWxzZSwKICAgICAgICBtYXhfZGlnaXRzPTExLCAgIyB1cCB0byA5OSBtaWxsaW9uCiAgICAgICAgZGVjaW1hbF9wbGFjZXM9MiwKICAgICAgICBoZWxwX3RleHQ9IkNsYWltIG1vbmV5IGFtb3VudCIKICAgICkKICAgIHJvYmluLCBUUEEgPSByYW5nZSgxLCAzKQoKICAgIE1BU1RFUl9FTlRSWV9DSE9JQ0VTID0gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNscy5fZmFjaWxpdHlfdHlwZV93b3JsZF9tYXBwc3Nlclt2XS5hcHBlbmQoaykK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>WORLD_FACILITY</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGFtb3VudCA9IG1vZGVscy5EZWNpbWFsRmllbGQoCiAgICAgICAgbnVsbD1GYWxzZSwKICAgICAgICBibGFuaz1GYWxzZSwKICAgICAgICBtYXhfZGlnaXRzPTExLCAgIyB1cCB0byA5OSBtaWxsaW9uCiAgICAgICAgZGVjaW1hbF9wbGFjZXM9MiwKICAgICAgICBoZWxwX3RleHQ9IkNsYWltIG1vbmV5IGFtb3VudCIKICAgICkKICAgIHJvYmluLCBUUEEgPSByYW5nZSgxLCAzKQoKICAgIE1BU1RFUl9FTlRSWV9DSE9JQ0VTID0gewo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>WORLD_FACILITY</text>
       </register>
     </registers>
     <search>
