@@ -10,6 +10,7 @@
       <mapping pattern="sane-pygtk" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_QS_DO" type="PLAIN_TEXT" />
       <mapping pattern="ISSUES" type="PLAIN_TEXT" />
+      <mapping pattern="p" type="PLAIN_TEXT" />
       <mapping pattern=".env_core" type="PLAIN_TEXT" />
       <mapping pattern=".env_tests" type="PLAIN_TEXT" />
       <mapping pattern="create_dump_for_inna" type="PLAIN_TEXT" />
