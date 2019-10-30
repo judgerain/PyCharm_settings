@@ -66,4 +66,5 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift alt back_slash" />
   </action>
+  <action id="ViewInplaceComments" />
 </keymap>
