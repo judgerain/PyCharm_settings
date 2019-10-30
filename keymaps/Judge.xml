@@ -11,6 +11,9 @@
   <action id="ActivateRunDashboardToolWindow">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="ActivateServicesToolWindow">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
