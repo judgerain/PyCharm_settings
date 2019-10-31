@@ -51,6 +51,9 @@
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
+  <action id="OpenEditorInOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
+  </action>
   <action id="PrevParameter">
     <keyboard-shortcut first-keystroke="shift tab" />
     <keyboard-shortcut first-keystroke="shift alt comma" />
