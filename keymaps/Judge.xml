@@ -11,9 +11,6 @@
   <action id="ActivateRunDashboardToolWindow">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
-  <action id="ActivateServicesToolWindow">
-    <keyboard-shortcut first-keystroke="alt s" />
-  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
@@ -51,9 +48,6 @@
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
-  <action id="OpenEditorInOppositeTabGroup">
-    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
-  </action>
   <action id="PrevParameter">
     <keyboard-shortcut first-keystroke="shift tab" />
     <keyboard-shortcut first-keystroke="shift alt comma" />
@@ -69,5 +63,4 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift alt back_slash" />
   </action>
-  <action id="ViewInplaceComments" />
 </keymap>
