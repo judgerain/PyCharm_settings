@@ -1,0 +1,7 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <envs>
+      <env key="FLASK_APP" value="manage.py" />
+    </envs>
+  </component>
+</application>
