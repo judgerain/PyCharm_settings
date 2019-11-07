@@ -25,12 +25,22 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
+  <PostgresCodeStyleSettings version="2">
+    <option name="ALIAS_CASE" value="4" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="3" />
+  </PostgresCodeStyleSettings>
   <Python>
     <option name="SPACE_AFTER_NUMBER_SIGN" value="false" />
     <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
   </Python>
   <codeStyleSettings language="JavaScript">
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="false" />
+  </codeStyleSettings>
+  <codeStyleSettings language="PostgreSQL">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Python">
     <indentOptions>
