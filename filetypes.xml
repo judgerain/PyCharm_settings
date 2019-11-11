@@ -18,17 +18,17 @@
       <mapping pattern=".env_tests_med" type="PLAIN_TEXT" />
       <mapping pattern="UIT zip" type="PLAIN_TEXT" />
       <mapping pattern="python" type="PLAIN_TEXT" />
-      <mapping pattern="ISSUES" type="PLAIN_TEXT" />
       <mapping pattern=".env_plan" type="PLAIN_TEXT" />
+      <mapping pattern="ISSUES" type="PLAIN_TEXT" />
       <mapping pattern=".env_tests" type="PLAIN_TEXT" />
       <mapping pattern="including_facility_to_providers_entity" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="sane-pygtk" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_QA" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
+      <mapping pattern="curl_" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="111" type="PLAIN_TEXT" />
-      <mapping pattern="curl_" type="PLAIN_TEXT" />
       <mapping pattern="create_dump_for_inna" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
