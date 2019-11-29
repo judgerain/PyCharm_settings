@@ -9,6 +9,7 @@
       <mapping pattern="jenkins_dev" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="test_file" type="PLAIN_TEXT" />
+      <mapping pattern="Pipenv" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_QS_DO" type="PLAIN_TEXT" />
       <mapping pattern=".env_core" type="PLAIN_TEXT" />
       <mapping pattern="1111" type="PLAIN_TEXT" />
@@ -24,7 +25,6 @@
       <mapping pattern="including_facility_to_providers_entity" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="sane-pygtk" type="PLAIN_TEXT" />
-      <mapping pattern="Pipenv" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_QA" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="curl_" type="PLAIN_TEXT" />
