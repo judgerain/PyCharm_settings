@@ -6,6 +6,7 @@
       <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping pattern="UIT zip" type="PLAIN_TEXT" />
       <mapping pattern="1111" type="PLAIN_TEXT" />
+      <mapping pattern=".env_med_tests" type="PLAIN_TEXT" />
       <mapping pattern="get doctors data" type="PLAIN_TEXT" />
       <mapping pattern="sane-pygtk" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_QS_DO" type="PLAIN_TEXT" />
