@@ -3,17 +3,17 @@
     <extensionMap>
       <mapping pattern="Dokerfile" type="Dockerfile" />
       <mapping ext="rtf" type="Native" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping pattern="UIT zip" type="PLAIN_TEXT" />
       <mapping pattern="1111" type="PLAIN_TEXT" />
-      <mapping pattern="get doctors data" type="PLAIN_TEXT" />
       <mapping pattern="sane-pygtk" type="PLAIN_TEXT" />
-      <mapping pattern=".env_bj" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_QS_DO" type="PLAIN_TEXT" />
+      <mapping pattern=".env_core" type="PLAIN_TEXT" />
       <mapping pattern="ISSUES" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_QA" type="PLAIN_TEXT" />
       <mapping pattern="p" type="PLAIN_TEXT" />
-      <mapping pattern=".env_core" type="PLAIN_TEXT" />
+      <mapping pattern=".env_bj" type="PLAIN_TEXT" />
       <mapping pattern="planing" type="PLAIN_TEXT" />
       <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping pattern="delme" type="PLAIN_TEXT" />
@@ -25,7 +25,7 @@
       <mapping pattern="including_facility_to_providers_entity" type="PLAIN_TEXT" />
       <mapping pattern=".env_tests_med" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="get doctors data" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern=".env_plan" type="PLAIN_TEXT" />
       <mapping pattern="curl_" type="PLAIN_TEXT" />
