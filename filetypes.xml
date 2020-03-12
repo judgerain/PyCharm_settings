@@ -18,6 +18,7 @@
       <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping pattern="delme" type="PLAIN_TEXT" />
       <mapping pattern="Pipenv" type="PLAIN_TEXT" />
+      <mapping pattern=".flaskenv" type="PLAIN_TEXT" />
       <mapping pattern=".env_tests" type="PLAIN_TEXT" />
       <mapping pattern="create_dump_for_inna" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_dev" type="PLAIN_TEXT" />
