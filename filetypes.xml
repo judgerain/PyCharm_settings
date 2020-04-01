@@ -7,8 +7,10 @@
       <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping pattern="UIT zip" type="PLAIN_TEXT" />
       <mapping pattern="1111" type="PLAIN_TEXT" />
+      <mapping pattern="TEST" type="PLAIN_TEXT" />
       <mapping pattern="sane-pygtk" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_QS_DO" type="PLAIN_TEXT" />
+      <mapping pattern="docker_db_env" type="PLAIN_TEXT" />
       <mapping pattern=".env_core" type="PLAIN_TEXT" />
       <mapping pattern="ISSUES" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_QA" type="PLAIN_TEXT" />
