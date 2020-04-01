@@ -14,6 +14,7 @@
       <mapping pattern=".env_core" type="PLAIN_TEXT" />
       <mapping pattern="ISSUES" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_QA" type="PLAIN_TEXT" />
+      <mapping pattern="req" type="PLAIN_TEXT" />
       <mapping pattern="p" type="PLAIN_TEXT" />
       <mapping pattern=".env_bj" type="PLAIN_TEXT" />
       <mapping pattern="planing" type="PLAIN_TEXT" />
