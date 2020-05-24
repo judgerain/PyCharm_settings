@@ -7,6 +7,8 @@
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="DefaultFont">
+    <option name="FONT_SIZE" value="12" />
+    <option name="FONT_FAMILY" value="DejaVu Sans Mono" />
     <option name="LINE_SPACING" value="1.1" />
   </component>
   <component name="EditorSettings">
